@@ -1,0 +1,15 @@
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\OopsProject\OopsProject\bin\Debug\net7.0\OopsProject.exe
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\OopsProject\OopsProject\bin\Debug\net7.0\OopsProject.deps.json
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\OopsProject\OopsProject\bin\Debug\net7.0\OopsProject.runtimeconfig.json
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\OopsProject\OopsProject\bin\Debug\net7.0\OopsProject.dll
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\OopsProject\OopsProject\bin\Debug\net7.0\OopsProject.pdb
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\OopsProject\OopsProject\obj\Debug\net7.0\OopsProject.csproj.AssemblyReference.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\OopsProject\OopsProject\obj\Debug\net7.0\OopsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\OopsProject\OopsProject\obj\Debug\net7.0\OopsProject.AssemblyInfoInputs.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\OopsProject\OopsProject\obj\Debug\net7.0\OopsProject.AssemblyInfo.cs
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\OopsProject\OopsProject\obj\Debug\net7.0\OopsProject.csproj.CoreCompileInputs.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\OopsProject\OopsProject\obj\Debug\net7.0\OopsProject.dll
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\OopsProject\OopsProject\obj\Debug\net7.0\refint\OopsProject.dll
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\OopsProject\OopsProject\obj\Debug\net7.0\OopsProject.pdb
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\OopsProject\OopsProject\obj\Debug\net7.0\OopsProject.genruntimeconfig.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Projects\OopsProject\OopsProject\obj\Debug\net7.0\ref\OopsProject.dll
